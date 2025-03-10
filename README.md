@@ -10,7 +10,6 @@ A modern, feature-rich starter kit built with the latest web technologies.
 - 🔒 **Authentication** - Clerk integration with persistent authorization
 - 🎭 **Shadcn/ui** - Beautiful and accessible components
 - 💾 **Convex DB** - Real-time database with built-in file storage
-- 🎯 **Vuesax Icons** - Beautiful icon set
 - 🌓 **Dark Mode** - Built-in dark mode support
 - 🔔 **Toast Notifications** - Beautiful toast notifications
 
